@@ -152,11 +152,4 @@ Webhook_ONS/
 ## **Licença**
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais informações.
 
----
-
-## **Contato**
-
-- **Autor**: Seu Nome
-- **Email**: seu-email@dominio.com
-- **GitHub**: [Seu GitHub](https://github.com/seu-usuario)
 
